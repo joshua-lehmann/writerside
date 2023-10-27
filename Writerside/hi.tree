@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="index.md">
+
+    <toc-element topic="introduction-goals.md"/>
+    <toc-element topic="index.md"/>
+    <toc-element topic="deployment-view.md"/>
+    <toc-element topic="crosscutting-concepts.md"/>
+    <toc-element topic="building-block-view.md"/>
+    <toc-element topic="Default-topic.md"/>
+    <toc-element toc-title="Frontend">
+        <toc-element topic="azure-env.md"/>
+    </toc-element>
+</instance-profile>
